@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors Game
-  A classic Rock, Paper, Scissors!!
+  A classic Rock, Paper, Scissors!!!
 
 # Overview
 This project is a simple implementation of the classic Rock, Paper, Scissors game. The game allows a player to compete against the computer in multiple rounds, with the first to reach three points declared the winner. The game also features a reset functionality to allow players to start a new game after a winner is determined.
